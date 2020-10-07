@@ -8,5 +8,5 @@ Refer to the readme files in the respective folders to set up your local environ
 
 Users can schedule the time, date and day for the emails by using the cron scheduler.
 
-Refer to the below link to learn how cron-jobs work:
+Refer to this link to learn how cron-jobs work:
 https://www.npmjs.com/package/node-cron
